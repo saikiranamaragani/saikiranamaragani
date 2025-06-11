@@ -3,7 +3,7 @@
 🎯 **Senior Quality Engineer**  
 🔍 Passionate about ensuring high-quality digital experiences across OTT and smart device platforms.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sai-kiran-amaragani&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=saikiranamaragani&style=flat-square)
 
 ---
 
@@ -20,7 +20,7 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 - 👯 I’m looking to collaborate on **automation testing frameworks and QA process improvements**.
 - 🤔 I’m looking for help with **diving deeper into CI/CD pipelines**.
 - 💬 Ask me about **manual testing, OTT QA, bug reporting, RCA, and onboarding QA practices**.
-- 📫 How to reach me: [amaraganisaikiran99@gmail.com](mailto:amaraganisaikiran99@gmail.com)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-amaraganisaikiran99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaraganisaikiran99@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy visual design and video editing when I’m not testing software.
 
@@ -29,7 +29,6 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-amaragani-847783155/)
-[![Email](https://img.shields.io/badge/Email-amaraganisaikiran99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaraganisaikiran99@gmail.com)
 
 ---
 
