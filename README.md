@@ -93,7 +93,7 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 
 ## 📊 GitHub Stats
 
-![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-kiran-amaragani&show_icons=true&theme=radical)
+![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikiranamaragani&show_icons=true&theme=radical)
 
 ---
 
