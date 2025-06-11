@@ -7,17 +7,17 @@
 
 ## 💼 Professional Summary
 
-**Senior Software Tester** with **3.4+ years of hands-on experience** in **manual, automation, regression, and performance testing**. Specialized in OTT streaming platforms, Smart TVs, mobile (Android/iOS), Roku, Fire TV, and gaming consoles. Strong expertise in **Java, TestNG, Postman, and Rest Assured** with a consistent focus on backend/API validation and cross-platform quality assurance.
+**Senior Software Tester** with **3.4+ years of hands-on experience** in **manual, automation, regression, and performance testing**. Specialized in OTT streaming platforms, Smart TVs, mobile (Android/iOS), Roku, Fire TV, and gaming consoles. Strong expertise in **Java, TestNG, Postman, and Rest Assured**, with a consistent focus on backend/API validation and cross-platform quality assurance.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Pluto TV OTT** project at LTIMindtree.
+- 🔭 Currently working on the **Pluto TV OTT** project at LTIMindtree.
 - ⚙️ Skilled in **backend API testing**, automation framework development, and OTT streaming validation.
-- 🤝 Looking to collaborate on **test automation frameworks, QA process enhancements**, and CI/CD integrations.
+- 🤝 Open to collaborations on **test automation frameworks, QA process improvements**, and CI/CD integrations.
 - 📫 Reach me at: [amaraganisaikiran99@gmail.com](mailto:amaraganisaikiran99@gmail.com)
-- 💡 Always eager to learn emerging testing tools, AI-driven QA practices, and DevOps methodologies.
+- 💡 Constantly exploring emerging QA tools, AI in testing, and DevOps methodologies.
 
 ---
 
@@ -27,18 +27,18 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (Oldest → Newest)
 
-### 💬 Languages & Scripting (Oldest → Newest)
+### 💬 Languages & Scripting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React JS](https://img.shields.io/badge/React--JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React JS](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
@@ -105,41 +105,38 @@
 
 ### 🔹 LTIMindtree | **Senior Quality Engineer – Pluto TV** *(Dec 2022 – Present)*
 
-- API testing using Postman, Java, and Rest Assured for login, content, search & user preferences.
-- Performed functional & regression testing on OTT platforms: Smart TVs, Roku, FireTV, Android/iOS.
+- Automated and performed API testing using Postman, Java, and Rest Assured.
+- Executed functional and regression testing across OTT platforms (Smart TVs, Roku, FireTV, Android/iOS).
 - Validated ABR streaming, geo-restrictions, and playback flows.
-- Worked with Charles Proxy and ADB for network debugging.
-- Mentored junior testers, optimized test coverage and case execution.
-- Conducted test audits and RCA on Sev-2 defects.
-- Improved automation coverage and framework enhancements using TestNG.
+- Used Charles Proxy and ADB for deep network debugging.
+- Mentored juniors, improved coverage, and conducted root cause analysis for major issues.
 
-**Tech Used**: Postman, Java, Rest Assured, Charles Proxy, SQL, JIRA, TestRail, OTT Devices, ADB, Agile
+**Tools**: Postman, Java, Rest Assured, Charles Proxy, SQL, JIRA, TestRail, ADB, Agile
 
 ---
 
-### 🔹 LTIMindtree | **Software Engineer – Ingram Micro Legacy Web** *(Nov 2021 – Dec 2022)*
+### 🔹 LTIMindtree | **Software Engineer – Ingram Micro** *(Nov 2021 – Dec 2022)*
 
-- Manual and API testing for Web/Mobile apps focused on order flow and payment validation.
-- Wrote and executed REST API test cases in Postman.
-- Validated backend with SQL queries, reported issues in JIRA.
-- Worked closely with business and product owners to verify stories and acceptance criteria.
+- Conducted manual and API testing for web/mobile applications.
+- Designed test cases in Postman, validated backend using SQL.
+- Collaborated closely with stakeholders and reported bugs using JIRA.
 
-**Tech Used**: Selenium, Java, Rest Assured, Postman, SQL, Putty, Citrix, JIRA
+**Tools**: Selenium, Java, Postman, SQL, Putty, Citrix, JIRA
 
 ---
 
-## 🔧 Process Improvements
+## 🔧 Key Initiatives
 
-- 📱 **Device Management Portal**: Streamlined device tracking and utilization for test labs.
-- 🤖 **AI for Test Case Generation**: Used Charles Proxy and AI-based tools to derive robust test scenarios.
-- 📋 **QA Best Practices**: Conducted quality audits and bug tracking reviews to ensure excellence in deliverables.
+- 📱 Built a **Device Management Portal** to streamline device usage in test labs.
+- 🤖 Leveraged **AI for test case generation** using network logs.
+- 📋 Led initiatives for **QA best practices**, defect triaging, and RCA sessions.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Electronics and Communication Engineering**  
-*Jawaharlal Nehru Technological University, Hyderabad – 2021*
+**B.Tech – Electronics and Communication Engineering**  
+*Jawaharlal Nehru Technological University, Hyderabad (2021)*
 
 ---
 
@@ -151,4 +148,4 @@
 
 ---
 
-_Thanks for checking out my profile! Let’s connect and build something impactful._ 😊
+_Thanks for visiting my profile! Let's connect and build something impactful._ 😊
