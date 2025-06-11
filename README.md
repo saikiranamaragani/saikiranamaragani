@@ -20,7 +20,7 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 - 👯 I’m looking to collaborate on **automation testing frameworks and QA process improvements**.
 - 🤔 I’m looking for help with **diving deeper into CI/CD pipelines**.
 - 💬 Ask me about **manual testing, OTT QA, bug reporting, RCA, and onboarding QA practices**.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-amaraganisaikiran99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaraganisaikiran99@gmail.com)
+- 📫 How to reach me: [amaraganisaikiran99@gmail.com](mailto:amaraganisaikiran99@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy visual design and video editing when I’m not testing software.
 
@@ -37,10 +37,10 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 ### 💬 Languages & Scripting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
