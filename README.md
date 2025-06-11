@@ -3,6 +3,8 @@
 🎯 **Senior Quality Engineer**  
 🔍 Passionate about ensuring high-quality digital experiences across OTT and smart device platforms.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=sai-kiran-amaragani&style=flat-square)
+
 ---
 
 ## 💼 Professional Summary
@@ -27,12 +29,13 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-amaragani-847783155/)
+[![Email](https://img.shields.io/badge/Email-amaraganisaikiran99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaraganisaikiran99@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages & Scripting
+### 💬 Languages & Scripting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,26 +44,26 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React JS](https://img.shields.io/badge/React--JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Testing & DevOps
+### 🧪 Testing & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Cloud & Environments
+### ☁️ Cloud & Platforms
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### Databases
+### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Creative Tools
+### 🎨 Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-9999FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -68,23 +71,30 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 
 ## 📜 Education
 
-**Bachelor of Electronics** – JNTU Hyderabad (2021)
+**Bachelor’s in Electronics and Communication Engineering**  
+*Jawaharlal Nehru Technological University Hyderabad – 2021*
 
 ---
 
 ## 📈 Experience Snapshot
 
 ### 🔹 LTIMindtree | **Senior Quality Engineer** – *Pluto TV* (Feb 2023 – Present)
-- Sprint planning, standups, and QA documentation (WBR/MBR).
-- Extensive OTT testing: Smart TVs, Mobile Apps, Roku, FireTV.
-- Worked on aging bugs, RCA using ADB, onboarding, and training.
-- Created and maintained test cases, collaborated with dev teams, and ensured coverage.
+- Organized WBR/MBR reports and sprint ceremonies.
+- Tested OTT apps on Smart TVs, Roku, Android/iOS, FireTV.
+- Closed aging bugs, conducted RCA using ADB, trained new hires.
+- Focused on pre-launch & post-launch QA phases.
 
 ### 🔹 LTIMindtree | **Software Engineer** – *Ingram Micro* (Oct 2021 – Jan 2023)
-- Manual & automation testing of web/mobile apps.
-- Created comprehensive test plans to minimize bug recurrence.
-- Mentored juniors, collaborated with onshore/offshore teams.
+- Manual + automation testing for Web & Mobile apps.
+- Created test plans, executed regression/smoke/sanity tests.
+- Reported bugs, mentored juniors, led test cycles.
 
 ---
 
-_Thanks for stopping by!_
+## 📊 GitHub Stats
+
+![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-kiran-amaragani&show_icons=true&theme=radical)
+
+---
+
+_Thanks for visiting my profile! Feel free to connect and collaborate._ 😊
