@@ -90,9 +90,11 @@ Experienced **Senior Software Tester** with 3+ years in both **manual** and **au
 
 ## 📊 GitHub Stats
 
-![Sai Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikiranamaragani&show_icons=true&theme=radical)
-https://camo.githubusercontent.com/9514f9cc1d57bd6f020f47a6dc951a650a663ea7836e6212f7131f51a37183fd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d434f7574536174697368267468656d653d6461726b26686964655f626f726465723d66616c7365
-https://camo.githubusercontent.com/e9da869ebdf6181cb89a05c3d08a12048abed4fcc86780b14d000f959ac6a6cd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d434f7574536174697368267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374
+![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-kiran-amaragani&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kiran-amaragani&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sai-kiran-amaragani&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
