@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Tech Stack (Oldest → Newest)
+## 💻 Tech Stack
 
 ### 💬 Languages & Scripting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -55,7 +55,7 @@
 
 ### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React JS](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
