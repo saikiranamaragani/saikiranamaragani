@@ -7,7 +7,7 @@
 
 ## 💼 Professional Summary
 
-**Senior Software Tester** with **3.4+ years of hands-on experience** in **manual, automation, regression, and performance testing**. Specialized in OTT streaming platforms, Smart TVs, mobile (Android/iOS), Roku, Fire TV, and gaming consoles. Strong expertise in **Java, TestNG, Postman, and Rest Assured**, with a consistent focus on backend/API validation and cross-platform quality assurance.
+**Senior Software Tester** with **3+ years of hands-on experience** in **manual, automation, regression, and performance testing**. Specialized in OTT streaming platforms, Smart TVs, Mobile (Android/iOS), Roku, Fire TV, and Gaming consoles(Xbox/PS4/PS5). Strong expertise in **Java, TestNG, Postman, and Rest Assured**, with a consistent focus on backend/API validation and cross-platform quality assurance.
 
 ---
 
@@ -15,6 +15,7 @@
 
 - 🔭 Currently working on the **Pluto TV OTT** project at LTIMindtree.
 - ⚙️ Skilled in **backend API testing**, automation framework development, and OTT streaming validation.
+- 🤖 Gained hands-on experience through a **Machine Learning Internship**, working on data preprocessing and model building.
 - 🤝 Open to collaborations on **test automation frameworks, QA process improvements**, and CI/CD integrations.
 - 📫 Reach me at: [amaraganisaikiran99@gmail.com](mailto:amaraganisaikiran99@gmail.com)
 - 💡 Constantly exploring emerging QA tools, AI in testing, and DevOps methodologies.
@@ -87,6 +88,15 @@
 
 ---
 
+### 📊 Data & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+---
+
 ### 🎨 Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-9999FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -95,9 +105,9 @@
 
 ## 📜 Certifications
 
-- ✅ **Microsoft Azure Fundamentals** – Certified  
-- 🧪 **API Testing with Postman** – Udemy  
-- 💻 **Java & Selenium Automation Basics** – Online Training
+- ✅ **Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24)** – Certified  
+- 🧪 **API Testing with Postman** – Online Training  
+- 💻 **Java & Selenium Automation** – Online Training
 
 ---
 
@@ -125,11 +135,19 @@
 
 ---
 
-## 🔧 Key Initiatives
+### 🧠 Machine Learning Internship | *College Project*
+- Worked on ML algorithms using Scikit-learn and TensorFlow.
+- Applied Pandas and NumPy for data cleaning and transformation.
+- Built classification and regression models with Matplotlib for visualization.
+- Gained practical exposure to real-world ML pipelines.
 
-- 📱 Built a **Device Management Portal** to streamline device usage in test labs.
-- 🤖 Leveraged **AI for test case generation** using network logs.
-- 📋 Led initiatives for **QA best practices**, defect triaging, and RCA sessions.
+---
+
+## 🔧 Process Improvements
+
+- 📱 **Device Management Portal**: Streamlined device tracking and utilization for test labs.
+- 🤖 **AI for Test Case Generation**: Used Charles Proxy and AI-based tools to derive robust test scenarios.
+- 📋 **QA Best Practices**: Conducted quality audits and bug tracking reviews to ensure excellence in deliverables.
 
 ---
 
