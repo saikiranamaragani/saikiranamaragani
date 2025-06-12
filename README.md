@@ -36,7 +36,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -85,6 +84,7 @@
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -135,7 +135,7 @@
 
 ---
 
-### 🧠 Machine Learning Internship | *College Project*
+### 🧠 Machine Learning Internship
 - Worked on ML algorithms using Scikit-learn and TensorFlow.
 - Applied Pandas and NumPy for data cleaning and transformation.
 - Built classification and regression models with Matplotlib for visualization.
@@ -146,7 +146,7 @@
 ## 🔧 Process Improvements
 
 - 📱 **Device Management Portal**: Streamlined device tracking and utilization for test labs.
-- 🤖 **AI for Test Case Generation**: Used Charles Proxy and AI-based tools to derive robust test scenarios.
+- 🤖 **AI for Test Case Generation**: Used AI-based tools to derive robust test scenarios.
 - 📋 **QA Best Practices**: Conducted quality audits and bug tracking reviews to ensure excellence in deliverables.
 
 ---
