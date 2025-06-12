@@ -160,7 +160,8 @@
 
 ## 📊 GitHub Activity
 
-<tr>
+<table>
+  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=saikiranamaragani&show_icons=true&theme=radical&cache_seconds=60" alt="Sai Kiran's GitHub Stats" />
     </td>
@@ -171,7 +172,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranamaragani&layout=compact&theme=radical&cache_seconds=60" alt="Top Languages" />
     </td>
   </tr>
-  
+</table>
+
 ---
 
 _Thanks for visiting my profile! Let's connect and build something impactful._ 😊
