@@ -160,11 +160,9 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikiranamaragani&show_icons=true&theme=radical&cache_seconds=60" width="33%"/>
-  <img src="https://streak-stats.demolab.com?user=saikiranamaragani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranamaragani&layout=compact&theme=radical&cache_seconds=60" width="33%"/>
-</p>
+![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikiranamaragani&show_icons=true&theme=radical&cache_seconds=60)
+![GitHub Streak](https://streak-stats.demolab.com?user=saikiranamaragani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranamaragani&layout=compact&theme=radical&cache_seconds=60)
 
 ---
 
