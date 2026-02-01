@@ -159,25 +159,13 @@ Experienced in working with **Agile teams**, improving test coverage, preventing
 ---
 
 ## 📊 GitHub Activity Dashboard
-
 ---
-
-## 🔥 Contribution Consistency
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranamaragani&theme=radical" />
-</p>
-
----
-
 ## 🧠 Profile Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikiranamaragani&theme=radical" />
 </p>
-
 ---
-
 ## 📈 Core Activity Metrics (IST)
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -190,64 +178,41 @@ Experienced in working with **Agile teams**, improving test coverage, preventing
     </td>
   </tr>
 </table>
-
 ---
-
 ## 👀 Profile Reach
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/saikiranamaragani?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/saikiranamaragani?label=Total%20Stars&style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=saikiranamaragani&label=Profile%20Views&style=flat-square" />
 </p>
-
 ---
-
 ## 📁 Repository Activity Overview
-
 <details>
 <summary><strong>🤖 Automation Projects</strong></summary>
-
 <br/>
-
 | Repository | Last Commit | Commits | Size | Language |
 |-----------|------------|--------|------|----------|
 | SeleniumTestNGFramework | ![](https://img.shields.io/github/last-commit/saikiranamaragani/SeleniumTestNGFramework?style=flat-square) | ![](https://img.shields.io/github/commit-activity/t/saikiranamaragani/SeleniumTestNGFramework?style=flat-square) | ![](https://img.shields.io/github/repo-size/saikiranamaragani/SeleniumTestNGFramework?style=flat-square) | ![](https://img.shields.io/github/languages/top/saikiranamaragani/SeleniumTestNGFramework?style=flat-square) |
 | BDDFramework | ![](https://img.shields.io/github/last-commit/saikiranamaragani/BDDFramework?style=flat-square) | ![](https://img.shields.io/github/commit-activity/t/saikiranamaragani/BDDFramework?style=flat-square) | ![](https://img.shields.io/github/repo-size/saikiranamaragani/BDDFramework?style=flat-square) | ![](https://img.shields.io/github/languages/top/saikiranamaragani/BDDFramework?style=flat-square) |
-
 </details>
-
 ---
-
 <details>
 <summary><strong>🧩 Full-Stack Projects</strong></summary>
-
 <br/>
-
 | Repository | Last Commit | Commits | Size | Language |
 |-----------|------------|--------|------|----------|
 | Portfolio | ![](https://img.shields.io/github/last-commit/saikiranamaragani/Portfolio?style=flat-square) | ![](https://img.shields.io/github/commit-activity/t/saikiranamaragani/Portfolio?style=flat-square) | ![](https://img.shields.io/github/repo-size/saikiranamaragani/Portfolio?style=flat-square) | ![](https://img.shields.io/github/languages/top/saikiranamaragani/Portfolio?style=flat-square) |
 | Ecommerce_ASAP | ![](https://img.shields.io/github/last-commit/saikiranamaragani/Ecommerce_ASAP?style=flat-square) | ![](https://img.shields.io/github/commit-activity/t/saikiranamaragani/Ecommerce_ASAP?style=flat-square) | ![](https://img.shields.io/github/repo-size/saikiranamaragani/Ecommerce_ASAP?style=flat-square) | ![](https://img.shields.io/github/languages/top/saikiranamaragani/Ecommerce_ASAP?style=flat-square) |
-
 </details>
-
 ---
-
 <details>
 <summary><strong>📚 Learning & Practice</strong></summary>
-
 <br/>
-
 | Repository | Last Commit | Commits | Size | Language |
 |-----------|------------|--------|------|----------|
 | Goibibo_LTI | ![](https://img.shields.io/github/last-commit/saikiranamaragani/Goibibo_LTI?style=flat-square) | ![](https://img.shields.io/github/commit-activity/t/saikiranamaragani/Goibibo_LTI?style=flat-square) | ![](https://img.shields.io/github/repo-size/saikiranamaragani/Goibibo_LTI?style=flat-square) | ![](https://img.shields.io/github/languages/top/saikiranamaragani/Goibibo_LTI?style=flat-square) |
 | Project_GOIBIBO | ![](https://img.shields.io/github/last-commit/saikiranamaragani/Project_GOIBIBO?style=flat-square) | ![](https://img.shields.io/github/commit-activity/t/saikiranamaragani/Project_GOIBIBO?style=flat-square) | ![](https://img.shields.io/github/repo-size/saikiranamaragani/Project_GOIBIBO?style=flat-square) | ![](https://img.shields.io/github/languages/top/saikiranamaragani/Project_GOIBIBO?style=flat-square) |
-
 </details>
-
----
-
-_📌 This dashboard reflects real GitHub activity using stable APIs and is optimized for recruiter readability._
 ---
 
 _Thanks for visiting my profile. Let’s connect and build reliable, high-quality products together 🚀_
