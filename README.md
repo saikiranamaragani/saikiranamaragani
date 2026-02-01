@@ -1,24 +1,27 @@
 # 👋 Hi there, I'm Sai Kiran Amaragani
 
 🎯 **Senior Quality Engineer – OTT | Automation | API Testing**  
-🔍 Passionate about ensuring seamless digital experiences across Smart TVs, mobile apps, and streaming platforms.
+🔍 Helping OTT and digital platforms deliver seamless streaming experiences through smart testing and automation.
 
 ---
 
 ## 💼 Professional Summary
 
-**Senior Software Tester** with **3+ years of hands-on experience** in **manual, automation, regression, and performance testing**. Specialized in OTT streaming platforms, Smart TVs, Mobile (Android/iOS), Roku, Fire TV, and Gaming consoles(Xbox/PS4/PS5). Strong expertise in **Java, TestNG, Postman, and Rest Assured**, with a consistent focus on backend/API validation and cross-platform quality assurance.
+**Senior Quality Engineer** with **4+ years of experience** in **manual, automation, regression, and API testing** across **OTT streaming platforms, web applications, and mobile apps**. Proven expertise in **Java-based automation frameworks, API/backend validation, and cross-platform quality assurance** for Smart TVs, Roku, Fire TV, Android, iOS, and gaming consoles.
+
+Experienced in working with **Agile teams**, improving test coverage, preventing production issues, and supporting fast, confident releases through automation and structured testing strategies.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on the **Pluto TV OTT** project at LTIMindtree.
-- ⚙️ Skilled in **backend API testing**, automation framework development, and OTT streaming validation.
-- 🤖 Gained hands-on experience through a **Machine Learning Internship**, working on data preprocessing and model building.
-- 🤝 Open to collaborations on **test automation frameworks, QA process improvements**, and CI/CD integrations.
-- 📫 Reach me at: [amaraganisaikiran99@gmail.com](mailto:amaraganisaikiran99@gmail.com)
-- 💡 Constantly exploring emerging QA tools, AI in testing, and DevOps methodologies.
+- 🔭 Currently working on the **Pluto TV OTT** project at **LTIMindtree**
+- ⚙️ Specialized in **API testing, automation framework development, and OTT streaming validation**
+- 🧪 Hands-on experience testing **Smart TVs, mobile apps, web platforms, and streaming devices**
+- 🤖 Gained exposure to **Machine Learning** through an internship focused on data preprocessing and model building
+- 🤝 Open to collaborations on **test automation frameworks, QA process improvements, and CI/CD integrations**
+- 💡 Passionate about **early defect detection, reliable releases, and continuous improvement**
+- 📫 Reach me at: **amaraganisaikiran99@gmail.com**
 
 ---
 
@@ -105,9 +108,9 @@
 
 ## 📜 Certifications
 
-- ✅ **Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24)** – Certified  
+- ✅ **Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24)**  
 - 🧪 **API Testing with Postman** – Online Training  
-- 💻 **Java & Selenium Automation** – Online Training
+- 💻 **Java & Selenium Automation** – Online Training  
 
 ---
 
@@ -115,39 +118,36 @@
 
 ### 🔹 LTIMindtree | **Senior Quality Engineer – Pluto TV** *(Dec 2022 – Present)*
 
-- Automated and performed API testing using Postman, Java, and Rest Assured.
-- Executed functional and regression testing across OTT platforms (Smart TVs, Roku, FireTV, Android/iOS).
-- Validated ABR streaming, geo-restrictions, and playback flows.
-- Used Charles Proxy and ADB for deep network debugging.
-- Mentored juniors, improved coverage, and conducted root cause analysis for major issues.
-
-**Tools**: Postman, Java, Rest Assured, Charles Proxy, SQL, JIRA, TestRail, ADB, Agile
+- Performed API testing using Postman, Java, and Rest Assured  
+- Executed functional and regression testing across OTT platforms  
+- Validated ABR streaming, geo-restrictions, and playback flows  
+- Used Charles Proxy and ADB for deep debugging  
+- Mentored junior testers and improved test coverage  
+- Conducted root cause analysis for high-severity production issues  
 
 ---
 
 ### 🔹 LTIMindtree | **Software Engineer – Ingram Micro** *(Nov 2021 – Dec 2022)*
 
-- Conducted manual and API testing for web/mobile applications.
-- Designed test cases in Postman, validated backend using SQL.
-- Collaborated closely with stakeholders and reported bugs using JIRA.
-
-**Tools**: Selenium, Java, Postman, SQL, Putty, Citrix, JIRA
+- Conducted manual and API testing for web and mobile applications  
+- Designed test cases in Postman and validated backend using SQL  
+- Collaborated with stakeholders and tracked defects using JIRA  
 
 ---
 
 ### 🧠 Machine Learning Internship
-- Worked on ML algorithms using Scikit-learn and TensorFlow.
-- Applied Pandas and NumPy for data cleaning and transformation.
-- Built classification and regression models with Matplotlib for visualization.
-- Gained practical exposure to real-world ML pipelines.
+
+- Worked on ML algorithms using Scikit-learn and TensorFlow  
+- Applied Pandas and NumPy for data cleaning and transformation  
+- Built classification and regression models with Matplotlib  
 
 ---
 
 ## 🔧 Process Improvements
 
-- 📱 **Device Management Portal**: Streamlined device tracking and utilization for test labs.
-- 🤖 **AI for Test Case Generation**: Used AI-based tools to derive robust test scenarios.
-- 📋 **QA Best Practices**: Conducted quality audits and bug tracking reviews to ensure excellence in deliverables.
+- 📱 **Device Management Portal**: Improved device tracking and utilization for QA labs  
+- 🤖 **AI for Test Case Generation**: Derived robust test scenarios using AI-assisted tools  
+- 📋 **QA Best Practices**: Conducted quality audits and defect reviews to improve delivery standards  
 
 ---
 
@@ -160,10 +160,9 @@
 
 ## 📊 GitHub Activity
 
-| GitHub Stats | GitHub Streak | Top Languages |
-|--------------|----------------|----------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=saikiranamaragani&show_icons=true&theme=radical&cache_seconds=60) | ![Streak](https://streak-stats.demolab.com?user=saikiranamaragani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranamaragani&layout=compact&theme=radical&cache_seconds=60) |
+![GitHub Streak](https://streak-stats.demolab.com?user=saikiranamaragani&theme=radical&hide_border=true)
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikiranamaragani&theme=radical)
 ---
 
-_Thanks for visiting my profile! Let's connect and build something impactful._ 😊
+_Thanks for visiting my profile. Let’s connect and build reliable, high-quality products together 🚀_
